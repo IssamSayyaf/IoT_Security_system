@@ -1,4 +1,5 @@
 # IoT_Security_System
+This project has been done in collaboration with Ahmad Mahmod
 
 The project aimed to develop a secure IoT system for collecting and
 storing data from IoT devices. The system was able to measure temperature,
