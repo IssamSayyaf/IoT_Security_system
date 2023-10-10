@@ -1,3 +1,8 @@
+    /*
+    DEVELOPER: Mohamad Issam Sayyaf
+    EMAIL: issamsayyaf97@gmail.com
+    */
+
     #include <WiFiClientSecure.h>
     #include <PubSubClient.h>
     #include <ArduinoJson.h>
